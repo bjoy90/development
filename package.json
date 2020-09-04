@@ -1,0 +1,25 @@
+{
+  "name": "webdev",
+  "version": "1.0.0",
+  "description": "Web development area",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1",
+    "popper": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/bjoy90/webdev"
+  },
+  "keywords": [
+    "web",
+    "devlopment"
+  ],
+  "author": "Bethany Fannin",
+  "license": "ISC"
+}
